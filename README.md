@@ -37,6 +37,7 @@ Output consists of the following files:
 
 
 **\<out-prefix\>.excel.txt** consists of lines of the following formats:
+
 **Headers**, start new syntenic regions and contain information about them. For example:
 ```
 ### METACOMPONENT_1000015 (167027 bps, 165.046825396825 genes, 151 backbone genes) ###
@@ -46,11 +47,12 @@ average of which 151 genes are backbone genes (namely they appear in all sequenc
 
 **Gene lines**, for example:
 ```
-231	BACKBONE	+	1498.5	2
-360	BACKBONE	-	1015	3	2	1	86
+231 	BACKBONE	+	1498.5	2
+360 	BACKBONE	-	1015	3	2	1	86
 1283	BUBBLE	-	263	3
 ```
 where fields are 
+
 1. Cluster id
 2. Gene type, either BACKBONE (the gene appear on all sequences) or BUBBLE (the gene appears only on some sequences).
 3. Strand (+/-) 
