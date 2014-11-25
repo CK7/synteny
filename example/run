@@ -1,0 +1,1 @@
+../code/find-synteny.pl cluster-proteins.faa.uc 2 . synteny-example 2> synteny-example.log

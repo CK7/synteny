@@ -1,0 +1,13 @@
+Resolved 14 junctions
+Removing nodes with less than 2 instances ... ok, number of nodes is 1395 (1423 before), number of edges is 1665 (1702 before)
+Looking for bubbles ... Added 114 new components by clustering 453 nodes
+Looking for linear components ... Added 200 new components by clustering 790 nodes
+Looking for bubble (internal nodes only) ... Added 7 new components by clustering 16 nodes
+Looking for linear components (internal nodes only) ... Added 45 new components by clustering 10 nodes
+Assigning tip nodes to components ... 
+*** Not assigning nodes to components ***
+Added 0 nodes to existing components
+Creating meta-components ... 40 meta-components created
+40 meta-components
+366 components (including components in meta-components)
+1269 nodes were assigned to clusters
